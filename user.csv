@@ -1,0 +1,3 @@
+id,firstname,lastname,age,expected
+001,kachain,pui,35,Hello kachain
+002,Entronica,kiat,100,Hello Entronica
